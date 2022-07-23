@@ -1,4 +1,4 @@
-# PyGame template.
+
 
 # Import standard modules.
 import sys
